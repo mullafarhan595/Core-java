@@ -1,7 +1,7 @@
-class   first
-{
-    public static void  main(String   ar[])
+class first {
+    
+    public static void main(String fm[])
     {
-        System.out.println("Wel come to Java Programming");
+        System.out.println("Hello");
     }
 }
